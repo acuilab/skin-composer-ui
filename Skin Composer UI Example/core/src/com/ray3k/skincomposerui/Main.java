@@ -14,6 +14,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Button;
 import com.badlogic.gdx.scenes.scene2d.ui.Button.ButtonStyle;
 import com.badlogic.gdx.scenes.scene2d.ui.ImageButton;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
+import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.SelectBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.scenes.scene2d.ui.SplitPane;
@@ -262,7 +263,7 @@ public class Main extends ApplicationAdapter {
         Table right = new Table();
         right.setTouchable(Touchable.enabled);
         
-        addPreviewAndPreviewProperties(right);
+        addPreviewPreviewPropertiesSplit(right);
         
         SplitPane splitPane = new SplitPane(left, right, false, skin);
         root.add(splitPane).grow();
@@ -374,18 +375,16 @@ public class Main extends ApplicationAdapter {
         table.add(imageButton).padLeft(5.0f);
     }
     
-    private void addPreviewAndPreviewProperties(final Table right) {
+    private void addPreviewPreviewPropertiesSplit(final Table right) {
         Table top = new Table();
         top.setTouchable(Touchable.enabled);
         
-        Label label = new Label("Preview", skin, "title");
-        top.add(label).expandY().top();
+        addPreview(top);
         
         Table bottom = new Table();
         bottom.setTouchable(Touchable.enabled);
         
-        label = new Label("Preview Properties", skin, "title");
-        bottom.add(label).expandY().top();
+        addPreviewProperties(bottom);
         
         SplitPane splitPane = new SplitPane(top, bottom, true, skin);
         right.add(splitPane).grow();
@@ -425,6 +424,32 @@ public class Main extends ApplicationAdapter {
             }
             
         });
+    }
+    
+    private void addPreview(Table top) {
+        Label label = new Label("Preview", skin, "title");
+        top.add(label);
+        
+        top.row();
+        Table table = new Table();
+        ScrollPane scrollPane = new ScrollPane(table, skin);
+        top.add(scrollPane).grow();
+        
+        TextField textField = new TextField("Type Here!", skin);
+        table.add(textField);
+    }
+    
+    private void addPreviewProperties(Table bottom) {
+        Label label = new Label("Preview Properties", skin, "title");
+        bottom.add(label);
+        
+        bottom.row();
+        Table table = new Table();
+        ScrollPane scrollPane = new ScrollPane(table, skin);
+        bottom.add(scrollPane).grow();
+        
+        TextField textField = new TextField("Type Here!", skin);
+        table.add(textField);
     }
     
     @Override

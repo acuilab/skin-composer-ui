@@ -1,7 +1,5 @@
 package com.ray3k.skincomposerui;
 
-import com.badlogic.gdx.math.Vector2;
-
 public interface WindowWorker {
     public static enum WindowState {
         ICONIFIED, RESTORED, MAXIMIZED

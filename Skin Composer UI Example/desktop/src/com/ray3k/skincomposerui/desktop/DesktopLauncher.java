@@ -11,6 +11,7 @@ import com.ray3k.skincomposerui.WindowWorker;
 public class DesktopLauncher implements Lwjgl3WindowListener, WindowWorker {
     
     private WindowState windowState;
+    private WindowState previousState;
 
     public static void main(String[] arg) {
         Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
@@ -28,20 +29,28 @@ public class DesktopLauncher implements Lwjgl3WindowListener, WindowWorker {
     }
 
     @Override
-    public void iconified() {
-        windowState = WindowState.ICONIFIED;
-    }
-
-    @Override
-    public void deiconified() {
-        windowState = WindowState.RESTORED;
+    public void iconified(boolean isIconified) {
+        if (isIconified) {
+            previousState = windowState;
+            windowState = WindowState.ICONIFIED;
+        } else {
+            if (previousState == WindowState.RESTORED) {
+                previousState = windowState;
+                windowState = WindowState.RESTORED;
+            } else if (previousState == WindowState.MAXIMIZED) {
+                previousState = windowState;
+                windowState = WindowState.MAXIMIZED;
+            }
+        }
     }
 
     @Override
     public void maximized(boolean isMaximized) {
         if (isMaximized) {
+            previousState = windowState;
             windowState = WindowState.MAXIMIZED;
         } else {
+            previousState = windowState;
             windowState = WindowState.RESTORED;
         }
     }
