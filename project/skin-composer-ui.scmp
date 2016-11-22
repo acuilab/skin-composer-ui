@@ -1302,6 +1302,19 @@ atlasData: {
 			tintName: null
 			name: window-main
 		}
+		{
+			file: E:/workspace/Skin Composer UI/git/output/class-bar.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: class-bar
+		}
 	]
 }
 jsonData: {

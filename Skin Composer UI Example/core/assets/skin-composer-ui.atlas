@@ -456,6 +456,13 @@ checkbox-on-pressed
   orig: 19, 15
   offset: 0, 0
   index: -1
+class-bar
+  rotate: false
+  xy: 251, 295
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
 font-export
   rotate: false
   xy: 1, 223
