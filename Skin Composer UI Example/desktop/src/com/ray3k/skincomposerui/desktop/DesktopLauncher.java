@@ -106,6 +106,14 @@ public class DesktopLauncher implements Lwjgl3WindowListener, WindowWorker {
     }
 
     @Override
+    public void center() {
+        Lwjgl3Graphics g = (Lwjgl3Graphics) Gdx.graphics;
+        int diffWidth = g.getDisplayMode().width - g.getWidth();
+        int diffHeight = g.getDisplayMode().height - g.getHeight();
+        g.getWindow().setPosition(diffWidth / 2, diffHeight / 2);
+    }
+
+    @Override
     public int getPositionX() {
         Lwjgl3Graphics g = (Lwjgl3Graphics) Gdx.graphics;
         return g.getWindow().getPositionX();
