@@ -1303,7 +1303,7 @@ atlasData: {
 			name: window-main
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/class-bar.png
+			file: E:/workspace/Skin Composer UI/git/output/class-bar.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1314,6 +1314,19 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: class-bar
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/output/status-bar.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: status-bar
 		}
 	]
 }
@@ -4436,7 +4449,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
 						optional: true
-						value: null
+						value: class-bar
 					}
 				}
 				deletable: true
@@ -5762,7 +5775,7 @@ preferences: {
 	}
 	last-directory: {
 		class: java.lang.String
-		value: E:/workspace/Skin Composer UI/git/Skin Composer UI Example/core/assets
+		value: E:/workspace/Skin Composer UI/git/output
 	}
 }
 saveFile: E:/workspace/Skin Composer UI/git/project/skin-composer-ui.scmp

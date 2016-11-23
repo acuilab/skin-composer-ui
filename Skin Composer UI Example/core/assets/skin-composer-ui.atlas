@@ -460,6 +460,8 @@ class-bar
   rotate: false
   xy: 251, 295
   size: 7, 6
+  split: 0, 0, 0, 1
+  pad: 2, 2, 2, 3
   orig: 7, 6
   offset: 0, 0
   index: -1
@@ -530,14 +532,14 @@ list
   index: -1
 scrollpane
   rotate: false
-  xy: 308, 347
+  xy: 308, 326
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 scrollpane-knob
   rotate: false
-  xy: 308, 331
+  xy: 308, 310
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
@@ -580,28 +582,28 @@ slider-horizontal
   index: -1
 slider-knob
   rotate: false
-  xy: 308, 317
+  xy: 260, 299
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 slider-knob-over
   rotate: false
-  xy: 260, 299
+  xy: 274, 299
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 slider-knob-pressed
   rotate: false
-  xy: 274, 299
+  xy: 288, 299
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 slider-vertical
   rotate: false
-  xy: 324, 341
+  xy: 67, 99
   size: 12, 20
   split: 4, 4, 2, 2
   pad: 0, 0, 0, 0
@@ -615,6 +617,13 @@ splitpane
   split: 2, 2, 2, 2
   pad: 0, 0, 0, 0
   orig: 6, 6
+  offset: 0, 0
+  index: -1
+status-bar
+  rotate: false
+  xy: 308, 342
+  size: 19, 19
+  orig: 19, 19
   offset: 0, 0
   index: -1
 textfield
