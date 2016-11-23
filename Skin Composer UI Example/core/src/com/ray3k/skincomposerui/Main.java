@@ -31,7 +31,7 @@ public class Main extends ApplicationAdapter {
     
     private Skin skin;
     private Stage stage;
-    private WindowWorker windowWorker;
+    private final WindowWorker windowWorker;
     private static enum DragState {
         NONE, TOP, BOTTOM, LEFT, RIGHT
     }
@@ -66,7 +66,10 @@ public class Main extends ApplicationAdapter {
         addClassBar(root);
         
         root.row();
-        addStyleAndPreviewSplit(root);
+        addStyleAndPreviewSplit(root, new ScrollPaneListener(), new IbeamListener());
+        
+        root.row();
+        addStatusBar(root);
         
         constrainWindowSize();
     }
@@ -123,7 +126,7 @@ public class Main extends ApplicationAdapter {
             
             @Override
             public void dragStop(InputEvent event, float x, float y, int pointer) {
-                
+
             }
 
             @Override
@@ -261,16 +264,16 @@ public class Main extends ApplicationAdapter {
         table.add(button).expandX().left();
     }
     
-    private void addStyleAndPreviewSplit(final Window root) {
+    private void addStyleAndPreviewSplit(final Window root, InputListener scrollPaneListener, InputListener iBeamListener) {
         Table left = new Table();
         left.setTouchable(Touchable.enabled);
         
-        addStyleProperties(left);
+        addStyleProperties(left, scrollPaneListener);
         
         Table right = new Table();
         right.setTouchable(Touchable.enabled);
         
-        addPreviewPreviewPropertiesSplit(right);
+        addPreviewPreviewPropertiesSplit(right, scrollPaneListener, iBeamListener);
         
         SplitPane splitPane = new SplitPane(left, right, false, skin);
         root.add(splitPane).grow();
@@ -314,7 +317,7 @@ public class Main extends ApplicationAdapter {
         
     }
     
-    private void addStyleProperties(final Table left) {
+    private void addStyleProperties(final Table left, InputListener scrollPaneListener) {
         Label label = new Label("Style Properties", skin, "title");
         left.add(label);
         
@@ -323,7 +326,9 @@ public class Main extends ApplicationAdapter {
         ScrollPane scrollPane = new ScrollPane(table, skin);
         scrollPane.setFadeScrollBars(false);
         scrollPane.setFlickScroll(false);
-        left.add(scrollPane).grow();
+        scrollPane.addListener(scrollPaneListener);
+        stage.setScrollFocus(scrollPane);
+        left.add(scrollPane).grow().padTop(10.0f).padBottom(10.0f);
         
         label = new Label("font", skin, "required");
         table.add(label).colspan(2);
@@ -457,11 +462,11 @@ public class Main extends ApplicationAdapter {
         table.add(imageButton).padLeft(5.0f);
         
         table.row();
-        label = new Label("horseTheif", skin);
+        label = new Label("orange", skin);
         table.add(label).colspan(2).padTop(10.0f);
         
         table.row();
-        textField = new TextField("button-horse-thief", skin);
+        textField = new TextField("button-orange", skin);
         textField.setDisabled(true);
         table.add(textField);
         
@@ -469,11 +474,11 @@ public class Main extends ApplicationAdapter {
         table.add(imageButton).padLeft(5.0f);
         
         table.row();
-        label = new Label("burger", skin);
+        label = new Label("lime", skin);
         table.add(label).colspan(2).padTop(10.0f);
         
         table.row();
-        textField = new TextField("button-burger", skin);
+        textField = new TextField("button-lime", skin);
         textField.setDisabled(true);
         table.add(textField);
         
@@ -481,16 +486,16 @@ public class Main extends ApplicationAdapter {
         table.add(imageButton).padLeft(5.0f);
     }
     
-    private void addPreviewPreviewPropertiesSplit(final Table right) {
+    private void addPreviewPreviewPropertiesSplit(final Table right, InputListener scrollPaneListener, InputListener iBeamListener) {
         Table top = new Table();
         top.setTouchable(Touchable.enabled);
         
-        addPreview(top);
+        addPreview(top, scrollPaneListener, iBeamListener);
         
         Table bottom = new Table();
         bottom.setTouchable(Touchable.enabled);
         
-        addPreviewProperties(bottom);
+        addPreviewProperties(bottom, scrollPaneListener, iBeamListener);
         
         SplitPane splitPane = new SplitPane(top, bottom, true, skin);
         right.add(splitPane).grow();
@@ -532,7 +537,7 @@ public class Main extends ApplicationAdapter {
         });
     }
     
-    private void addPreview(Table top) {
+    private void addPreview(Table top, InputListener scrollPaneListener, InputListener iBeamListener) {
         Label label = new Label("Preview", skin, "title");
         top.add(label);
         
@@ -541,25 +546,91 @@ public class Main extends ApplicationAdapter {
         ScrollPane scrollPane = new ScrollPane(table, skin);
         scrollPane.setFadeScrollBars(false);
         scrollPane.setFlickScroll(false);
-        top.add(scrollPane).grow();
+        scrollPane.addListener(scrollPaneListener);
+        top.add(scrollPane).grow().padTop(10.0f).padBottom(10.0f);
         
         TextField textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
         table.add(textField);
     }
     
-    private void addPreviewProperties(Table bottom) {
+    private void addPreviewProperties(Table bottom, InputListener scrollPaneListener, InputListener iBeamListener) {
         Label label = new Label("Preview Properties", skin, "title");
         bottom.add(label);
         
         bottom.row();
         Table table = new Table();
+        table.defaults().pad(5.0f);
+        
         ScrollPane scrollPane = new ScrollPane(table, skin);
         scrollPane.setFadeScrollBars(false);
         scrollPane.setFlickScroll(false);
-        bottom.add(scrollPane).grow();
+        scrollPane.addListener(scrollPaneListener);
+        bottom.add(scrollPane).grow().padTop(10.0f).padBottom(10.0f);
+        
+        label = new Label("Text:", skin);
+        table.add(label).right();
         
         TextField textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
         table.add(textField);
+        
+        table.row();
+        label = new Label("Message Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+        
+        table.row();
+        label = new Label("Hover Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+        
+        table.row();
+        label = new Label("Banana Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+        
+        table.row();
+        label = new Label("Apple Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+        
+        table.row();
+        label = new Label("Orange Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+        
+        table.row();
+        label = new Label("Lime Text:", skin);
+        table.add(label).right();
+        
+        textField = new TextField("Type Here!", skin);
+        textField.addListener(iBeamListener);
+        table.add(textField);
+    }
+    
+    private void addStatusBar(Window root) {
+        Table table = new Table();
+        table.setBackground(skin.getDrawable("status-bar"));
+        root.add(table).growX();
+        
+        Label label = new Label("ver. 1    RAY3K.WORDPRESS.COM    © 2016 Raymond \"Raeleus\" Buckley", skin);
+        table.add(label).expandX().right().padRight(25.0f);
     }
     
     private void constrainWindowSize() {
@@ -567,6 +638,40 @@ public class Main extends ApplicationAdapter {
         int height = Math.min(Gdx.graphics.getDisplayMode().height, Gdx.graphics.getHeight());
         Gdx.graphics.setWindowedMode(width, height);
         windowWorker.center();
+    }
+    
+    private class ScrollPaneListener extends InputListener {
+        @Override
+        public void enter(InputEvent event, float x, float y, int pointer,
+                Actor fromActor) {
+            if (event.getTarget() instanceof ScrollPane) {
+                ScrollPane scrollPane = (ScrollPane) event.getTarget();
+                //if the scroll pane is scrollable
+                if (!Float.isNaN(scrollPane.getScrollPercentY())) {
+                    stage.setScrollFocus(scrollPane);
+                }
+            }
+        }
+    }
+    
+    private class IbeamListener extends InputListener {
+
+        @Override
+        public void exit(InputEvent event, float x, float y, int pointer,
+                Actor toActor) {
+            if (!draggingCursor && dragState == DragState.NONE) {
+                Gdx.graphics.setSystemCursor(Cursor.SystemCursor.Arrow);
+            }
+        }
+
+        @Override
+        public void enter(InputEvent event, float x, float y, int pointer,
+                Actor fromActor) {
+            if (!draggingCursor && dragState == DragState.NONE) {
+                Gdx.graphics.setSystemCursor(Cursor.SystemCursor.Ibeam);
+            }
+        }
+        
     }
     
     @Override
