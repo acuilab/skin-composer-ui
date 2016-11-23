@@ -67,10 +67,12 @@ public class Main extends ApplicationAdapter {
         
         root.row();
         addStyleAndPreviewSplit(root);
+        
+        constrainWindowSize();
     }
 
     private void addListeners(final Window root) {
-        root.getTitleTable().addCaptureListener(new DragListener() {
+        DragListener dragListener = new DragListener() {
             private int startX, startY;
             @Override
             public void drag(InputEvent event, float x, float y, int pointer) {
@@ -86,7 +88,9 @@ public class Main extends ApplicationAdapter {
                 startX = (int) x;
                 startY = (int) y;
             }
-        });
+        };
+        dragListener.setTapSquareSize(0.0f);
+        root.getTitleTable().addCaptureListener(dragListener);
         
         root.addCaptureListener(new InputListener() {
             @Override
@@ -113,7 +117,7 @@ public class Main extends ApplicationAdapter {
             
         });
         
-        root.addCaptureListener(new DragListener() {
+        dragListener = new DragListener() {
             private int resizeX, resizeY;
             private int dragX, dragY;
             
@@ -159,7 +163,9 @@ public class Main extends ApplicationAdapter {
                 dragX = resizeX;
                 dragY = resizeY;
             } 
-        });
+        };
+        dragListener.setTapSquareSize(0.0f);
+        root.addCaptureListener(dragListener);
     }
     
     private void addTitleBarWidgets(final Window root) {
@@ -222,7 +228,8 @@ public class Main extends ApplicationAdapter {
     
     private void addClassBar(final Window root) {
         Table table = new Table();
-        root.add(table).expandX().left().padLeft(10.0f);
+        table.setBackground(skin.getDrawable("class-bar"));
+        root.add(table).expandX().left().padLeft(10.0f).growX();
         
         Label label = new Label("Class:", skin);
         table.add(label).padRight(10.0f);
@@ -251,7 +258,7 @@ public class Main extends ApplicationAdapter {
         table.add(button);
         
         button = new Button(skin, "settings");
-        table.add(button);
+        table.add(button).expandX().left();
     }
     
     private void addStyleAndPreviewSplit(final Window root) {
@@ -313,7 +320,10 @@ public class Main extends ApplicationAdapter {
         
         left.row();
         Table table = new Table();
-        left.add(table).grow();
+        ScrollPane scrollPane = new ScrollPane(table, skin);
+        scrollPane.setFadeScrollBars(false);
+        scrollPane.setFlickScroll(false);
+        left.add(scrollPane).grow();
         
         label = new Label("font", skin, "required");
         table.add(label).colspan(2);
@@ -368,6 +378,102 @@ public class Main extends ApplicationAdapter {
         
         table.row();
         textField = new TextField("button-over", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("imageUp", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("image-up", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("imageDown", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("image-down", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("imageOver", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("image-over", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("checked", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("button-checked", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("checkedOver", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("button-checked-over", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("banana", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("button-banana", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("horseTheif", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("button-horse-thief", skin);
+        textField.setDisabled(true);
+        table.add(textField);
+        
+        imageButton = new ImageButton(skin, "drawable");
+        table.add(imageButton).padLeft(5.0f);
+        
+        table.row();
+        label = new Label("burger", skin);
+        table.add(label).colspan(2).padTop(10.0f);
+        
+        table.row();
+        textField = new TextField("button-burger", skin);
         textField.setDisabled(true);
         table.add(textField);
         
@@ -433,6 +539,8 @@ public class Main extends ApplicationAdapter {
         top.row();
         Table table = new Table();
         ScrollPane scrollPane = new ScrollPane(table, skin);
+        scrollPane.setFadeScrollBars(false);
+        scrollPane.setFlickScroll(false);
         top.add(scrollPane).grow();
         
         TextField textField = new TextField("Type Here!", skin);
@@ -446,10 +554,19 @@ public class Main extends ApplicationAdapter {
         bottom.row();
         Table table = new Table();
         ScrollPane scrollPane = new ScrollPane(table, skin);
+        scrollPane.setFadeScrollBars(false);
+        scrollPane.setFlickScroll(false);
         bottom.add(scrollPane).grow();
         
         TextField textField = new TextField("Type Here!", skin);
         table.add(textField);
+    }
+    
+    private void constrainWindowSize() {
+        int width = Math.min(Gdx.graphics.getDisplayMode().width, Gdx.graphics.getWidth());
+        int height = Math.min(Gdx.graphics.getDisplayMode().height, Gdx.graphics.getHeight());
+        Gdx.graphics.setWindowedMode(width, height);
+        windowWorker.center();
     }
     
     @Override
