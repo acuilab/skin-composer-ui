@@ -1380,6 +1380,19 @@ atlasData: {
 			tintName: null
 			name: color-picker
 		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: stage-background
+			name: stage-background
+		}
 	]
 }
 jsonData: {
@@ -1413,6 +1426,16 @@ jsonData: {
 				a: 1
 			}
 			name: pressed
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0.38486663
+				g: 0.83666664
+				b: 0.71576
+				a: 0.40333334
+			}
+			name: stage-background
 		}
 		{
 			class: com.ray3k.skincomposer.data.ColorData
@@ -5764,7 +5787,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: stageBackground
 						optional: true
-						value: null
+						value: stage-background
 					}
 				}
 				deletable: true
