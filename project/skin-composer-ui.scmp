@@ -3,59 +3,7 @@ atlasData: {
 	atlasCurrent: true
 	drawables: [
 		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-off-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-off-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-on.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-on
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-on-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-on-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-on-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-on-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -68,930 +16,7 @@ atlasData: {
 			name: button
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-colorwheel.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-colorwheel
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-colorwheel-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-colorwheel-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-colorwheel-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-colorwheel-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-delete.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-delete
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-delete-disabled.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-delete-disabled
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-delete-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-delete-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-delete-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-delete-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-duplicate.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-duplicate
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-duplicate-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-duplicate-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-duplicate-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-duplicate-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-new.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-new
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-new-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-new-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-new-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-new-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-over.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-plus.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-plus
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-plus-over.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-plus-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-plus-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-plus-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-disabled.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-disabled
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-small.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-small
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-small-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-small-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-settings-small-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-settings-small-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-h.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-h
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-h-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-h-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-h-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-h-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-v.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-v
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-v-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-v-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-minus-v-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-minus-v-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-h.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-h
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-h-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-h-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-h-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-h-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-v.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-v
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-v-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-v-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-spinner-plus-v-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-spinner-plus-v-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-swatches.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-swatches
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-swatches-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-swatches-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-swatches-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-swatches-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-off.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: checkbox-off
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-off-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: checkbox-off-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-on.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: checkbox-on
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-on-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: checkbox-on-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-on-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: checkbox-on-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-colorwheel.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-colorwheel
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-colorwheel-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-colorwheel-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-portrait.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-portrait
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-portrait-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-portrait-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-text.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-text
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/icon-text-over.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: icon-text-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/selectbox.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: selectbox
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/selectbox-over.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: selectbox-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/selectbox-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: selectbox-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/slider-horizontal.9.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: slider-horizontal
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/slider-knob.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: slider-knob
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/slider-knob-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: slider-knob-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/slider-knob-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: slider-knob-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/slider-vertical.9.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: slider-vertical
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/textfield.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: textfield
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/textfield-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: textfield-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/textfield-spinner.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: textfield-spinner
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/textfield-spinner-over.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: textfield-spinner-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/textfield-spinner-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: textfield-spinner-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-off.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-off
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/toggle-off-over.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: toggle-off-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/window2.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: window2
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/window.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: window
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/font-title-export.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: false
-			tint: null
-			tintName: null
-			name: font-title-export
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/font-export.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: false
-			tint: null
-			tintName: null
-			name: font-export
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-close-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-close-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-close.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1004,7 +29,7 @@ atlasData: {
 			name: button-close
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-close-over.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1017,7 +42,7 @@ atlasData: {
 			name: button-close-over
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/checkbox-off-pressed.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1027,10 +52,62 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: checkbox-off-pressed
+			name: button-close-pressed
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/white.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-colorwheel
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-colorwheel-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-colorwheel-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-delete
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-disabled.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1040,10 +117,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: white
+			name: button-delete-disabled
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/list.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1053,36 +130,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: list
+			name: button-delete-over
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/white.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: pressed
-			name: pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/scrollpane.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: scrollpane
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/scrollpane-knob.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1092,10 +143,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: scrollpane-knob
+			name: button-delete-pressed
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-restore.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1105,23 +156,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-restore
+			name: button-duplicate
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-restore-over.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-restore-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-minimize.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1131,23 +169,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-minimize
+			name: button-duplicate-over
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-minimize-over.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-minimize-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-minimize-over copy.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1157,114 +182,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-minimize-over copy
+			name: button-duplicate-pressed
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-maximize.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-maximize
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-maximize-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-maximize-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-maximize-over.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-maximize-over
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-restore-pressed.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-restore-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/splitpane.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: splitpane
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/white.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: black
-			name: black
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/white.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: button
-			name: button-color
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-file-pressed.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: button-file-pressed
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/output/button-file.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1277,7 +198,7 @@ atlasData: {
 			name: button-file
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/button-file-over.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1290,7 +211,7 @@ atlasData: {
 			name: button-file-over
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/window-main.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1300,10 +221,595 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: window-main
+			name: button-file-pressed
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/class-bar.9.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-maximize
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize-over.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-maximize-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-maximize-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-minimize
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize-over.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-minimize-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize-over copy.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-minimize-over copy
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-new
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-new-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-new-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-plus
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-plus-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-plus-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-restore
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore-over.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-restore-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-restore-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-disabled.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-disabled
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-small
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-small-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-settings-small-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-h
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-h-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-h-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-v
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-v-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-minus-v-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-h
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-h-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-h-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-v
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-v-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-spinner-plus-v-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-swatches
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-swatches-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-swatches-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-off
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-off-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-off-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-on
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-on-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: checkbox-on-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/class-bar.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1316,7 +822,267 @@ atlasData: {
 			name: class-bar
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/output/status-bar.png
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-export.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: false
+			tint: null
+			tintName: null
+			name: font-export
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-title-export.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: false
+			tint: null
+			tintName: null
+			name: font-title-export
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-colorwheel.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-colorwheel
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-colorwheel-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-colorwheel-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-portrait.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-portrait
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-portrait-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-portrait-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-text.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-text
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-text-over.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: icon-text-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/list.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: list
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/scrollpane.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: scrollpane
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/scrollpane-knob.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: scrollpane-knob
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: selectbox
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: selectbox-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: selectbox-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-horizontal.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: slider-horizontal
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: slider-knob
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: slider-knob-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: slider-knob-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-vertical.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: slider-vertical
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/splitpane.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: splitpane
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/status-bar.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1327,6 +1093,292 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: status-bar
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: textfield
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: textfield-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: textfield-spinner
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: textfield-spinner-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: textfield-spinner-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-off
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-off-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-off-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-on
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-on-over
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: toggle-on-pressed
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: white
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: window
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window-main.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: window-main
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window2.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: window2
+		}
+		{
+			file: temp/339920028_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: pressed
+			name: pressed
+		}
+		{
+			file: temp/339920028_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: black
+			name: black
+		}
+		{
+			file: temp/339920028_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: button
+			name: button-color
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/output/color-scale.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-scale
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/output/color-scale-flipped.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-scale-flipped
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/output/color-box.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-box
+		}
+		{
+			file: C:/Users/raymond/Desktop/Skin Composer UI/output/color-picker.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-picker
 		}
 	]
 }
@@ -1377,12 +1429,12 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FontData
 			name: font
-			file: E:/workspace/Skin Composer UI/git/output/font-export.fnt
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-export.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
 			name: title
-			file: E:/workspace/Skin Composer UI/git/output/font-title-export.fnt
+			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-title-export.fnt
 		}
 	]
 	classStyleMap: {
@@ -4598,7 +4650,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
 						optional: false
-						value: scrollpane
+						value: null
 					}
 					disabledBackground: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -4612,7 +4664,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: knob
 						optional: true
-						value: scrollpane-knob
+						value: null
 					}
 					disabledKnob: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -5763,7 +5815,7 @@ preferences: {
 	}
 	id: {
 		class: java.lang.Integer
-		value: 738539216
+		value: 339920028
 	}
 	texture-max-height: {
 		class: java.lang.Integer
@@ -5775,8 +5827,8 @@ preferences: {
 	}
 	last-directory: {
 		class: java.lang.String
-		value: E:/workspace/Skin Composer UI/git/output
+		value: C:/Users/raymond/Desktop/Skin Composer UI/output
 	}
 }
-saveFile: E:/workspace/Skin Composer UI/git/project/skin-composer-ui.scmp
+saveFile: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui.scmp
 }
