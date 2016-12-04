@@ -3,7 +3,7 @@ atlasData: {
 	atlasCurrent: true
 	drawables: [
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -13,10 +13,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-color-base
+			name: loading_0
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -26,10 +26,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-color-base-over
+			name: loading_1
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -39,10 +39,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-color-base-pressed
+			name: loading_2
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -52,10 +52,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-delete-small
+			name: loading_3
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_4.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -65,10 +65,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-delete-small-over
+			name: loading_4
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_5.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -78,10 +78,10 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: button-delete-small-pressed
+			name: loading_5
 		}
 		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-box.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_6.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -91,72 +91,7 @@ atlasData: {
 			visible: true
 			tint: null
 			tintName: null
-			name: color-box
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-picker.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: color-picker
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: color-scale
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale-flipped.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: color-scale-flipped
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
-			bgColor: {
-				r: 0
-				g: 0
-				b: 0
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: link
-		}
-		{
-			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link-empty.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			visible: true
-			tint: null
-			tintName: null
-			name: link-empty
+			name: loading_6
 		}
 		{
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button.9.png
@@ -209,6 +144,45 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: button-close-pressed
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-color-base
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-color-base-over
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-color-base-pressed
 		}
 		{
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-colorwheel.png
@@ -300,6 +274,45 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: button-delete-pressed
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-delete-small
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-over.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-delete-small-over
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-delete-small-pressed
 		}
 		{
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-duplicate.png
@@ -978,6 +991,58 @@ atlasData: {
 			name: class-bar
 		}
 		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-box.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-box
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-picker.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-picker
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-scale
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale-flipped.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: color-scale-flipped
+		}
+		{
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-export.png
 			bgColor: {
 				r: 0
@@ -1080,6 +1145,45 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: icon-text-over
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: link
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: link
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link-empty.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: link-empty
 		}
 		{
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/list.9.png
@@ -1407,7 +1511,7 @@ atlasData: {
 			name: white
 		}
 		{
-			file: temp/719689958_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1459,7 +1563,7 @@ atlasData: {
 			name: window2
 		}
 		{
-			file: temp/719689958_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1472,7 +1576,7 @@ atlasData: {
 			name: pressed
 		}
 		{
-			file: temp/719689958_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1485,7 +1589,7 @@ atlasData: {
 			name: black
 		}
 		{
-			file: temp/719689958_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1498,7 +1602,7 @@ atlasData: {
 			name: button-color
 		}
 		{
-			file: temp/719689958_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1511,7 +1615,7 @@ atlasData: {
 			name: stage-background
 		}
 		{
-			file: temp/719689958_data/link.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1524,7 +1628,7 @@ atlasData: {
 			name: link-c
 		}
 		{
-			file: temp/719689958_data/link.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1535,6 +1639,19 @@ atlasData: {
 			tint: null
 			tintName: link-pressed
 			name: link-p
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_7.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: loading_7
 		}
 	]
 }
@@ -6464,7 +6581,7 @@ preferences: {
 	}
 	id: {
 		class: java.lang.Integer
-		value: 719689958
+		value: 856794521
 	}
 	texture-max-height: {
 		class: java.lang.Integer
@@ -6476,7 +6593,7 @@ preferences: {
 	}
 	last-directory: {
 		class: java.lang.String
-		value: E:/workspace/Skin Composer UI/git/skin export
+		value: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data
 	}
 }
 saveFile: E:/workspace/Skin Composer UI/git/project/skin-composer-ui.scmp
