@@ -4611,7 +4611,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.Color
 						name: fontColor
 						optional: true
-						value: null
+						value: button
 					}
 					downFontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -4794,7 +4794,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.Color
 						name: fontColor
 						optional: true
-						value: white
+						value: button
 					}
 					downFontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
