@@ -280,6 +280,10 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 		font: font
 		fontColor: black
 	}
+	disabled: {
+		font: font
+		fontColor: disabled
+	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
 	default: {
@@ -370,6 +374,12 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 		down: button-menu-pressed
 		over: button-menu-over
 		disabled: button-menu
+	}
+	browse-field: {
+		font: font
+		up: browse-field
+		down: browse-field-pressed
+		over: browse-field-over
 	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
