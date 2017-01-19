@@ -377,6 +377,7 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 	}
 	browse-field: {
 		font: font
+		fontColor: pressed
 		up: browse-field
 		down: browse-field-pressed
 		over: browse-field-over
