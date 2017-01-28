@@ -1705,6 +1705,19 @@ atlasData: {
 			tintName: null
 			name: browse-field-pressed
 		}
+		{
+			file: E:/workspace/Skin Composer UI/git/output/button-duplicate-disabled.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: button-duplicate-disabled
+		}
 	]
 }
 jsonData: {
@@ -2125,7 +2138,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: disabled
 						optional: true
-						value: null
+						value: button-duplicate-disabled
 					}
 					pressedOffsetX: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7021,6 +7034,7 @@ jsonData: {
 			}
 		]
 	}
+	customClasses: []
 }
 preferences: {
 	last-open-save-path: {
