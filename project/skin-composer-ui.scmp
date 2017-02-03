@@ -7034,7 +7034,182 @@ jsonData: {
 			}
 		]
 	}
-	customClasses: []
+	customClasses: [
+		{
+			fullyQualifiedName: com.ray3k.skincomposer.BrowseField$BrowseFieldStyle
+			displayName: BrowseField
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: color
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: default
+						}
+					]
+					deletable: false
+				}
+				{
+					name: color
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: color
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: default
+						}
+					]
+					deletable: true
+				}
+				{
+					name: drawable
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: drawable
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: default
+						}
+					]
+					deletable: true
+				}
+				{
+					name: font
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: font
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: default
+						}
+					]
+					deletable: true
+				}
+				{
+					name: color-required
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: color
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: required
+						}
+					]
+					deletable: true
+				}
+				{
+					name: drawable-required
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: drawable
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: required
+						}
+					]
+					deletable: true
+				}
+				{
+					name: font-required
+					properties: [
+						{
+							name: rightButtonStyle
+							type: TEXT
+							value: font
+						}
+						{
+							name: mainButtonStyle
+							type: TEXT
+							value: browse-field
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: required
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: rightButtonStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: mainButtonStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: labelStyle
+						type: TEXT
+						value: ""
+					}
+				]
+				deletable: true
+			}
+		}
+	]
 }
 preferences: {
 	maxUndos: {
