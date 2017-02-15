@@ -3,7 +3,7 @@ atlasData: {
 	atlasCurrent: true
 	drawables: [
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate-disabled.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-duplicate-disabled.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -16,7 +16,7 @@ atlasData: {
 			name: button-duplicate-disabled
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/browse-field-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/browse-field-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -29,7 +29,7 @@ atlasData: {
 			name: browse-field-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/browse-field-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/browse-field-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -42,7 +42,7 @@ atlasData: {
 			name: browse-field-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -55,7 +55,7 @@ atlasData: {
 			name: button
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-close.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -68,7 +68,7 @@ atlasData: {
 			name: button-close
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-close-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -81,7 +81,7 @@ atlasData: {
 			name: button-close-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-close-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-close-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -94,7 +94,7 @@ atlasData: {
 			name: button-close-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-color-base.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -107,7 +107,7 @@ atlasData: {
 			name: button-color-base
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-color-base-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -120,7 +120,7 @@ atlasData: {
 			name: button-color-base-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-color-base-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-color-base-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -133,7 +133,7 @@ atlasData: {
 			name: button-color-base-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-colorwheel.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -146,7 +146,7 @@ atlasData: {
 			name: button-colorwheel
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-colorwheel-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -159,7 +159,7 @@ atlasData: {
 			name: button-colorwheel-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-colorwheel-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-colorwheel-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -172,7 +172,7 @@ atlasData: {
 			name: button-colorwheel-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -185,7 +185,7 @@ atlasData: {
 			name: button-delete
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-disabled.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-disabled.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -198,7 +198,7 @@ atlasData: {
 			name: button-delete-disabled
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -211,7 +211,7 @@ atlasData: {
 			name: button-delete-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -224,7 +224,7 @@ atlasData: {
 			name: button-delete-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-small.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -237,7 +237,7 @@ atlasData: {
 			name: button-delete-small
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-small-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -250,7 +250,7 @@ atlasData: {
 			name: button-delete-small-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-delete-small-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-delete-small-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -263,7 +263,7 @@ atlasData: {
 			name: button-delete-small-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-duplicate.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -276,7 +276,7 @@ atlasData: {
 			name: button-duplicate
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-duplicate-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -289,7 +289,7 @@ atlasData: {
 			name: button-duplicate-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-duplicate-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-duplicate-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -302,7 +302,7 @@ atlasData: {
 			name: button-duplicate-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-file.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -315,7 +315,7 @@ atlasData: {
 			name: button-file
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-file-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -328,7 +328,7 @@ atlasData: {
 			name: button-file-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-file-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-file-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -341,7 +341,7 @@ atlasData: {
 			name: button-file-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-menu-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-menu-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -354,7 +354,7 @@ atlasData: {
 			name: button-menu-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-maximize.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -367,7 +367,7 @@ atlasData: {
 			name: button-maximize
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-maximize-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -380,7 +380,7 @@ atlasData: {
 			name: button-maximize-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-maximize-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-maximize-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -393,7 +393,7 @@ atlasData: {
 			name: button-maximize-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-menu.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-menu.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -406,7 +406,7 @@ atlasData: {
 			name: button-menu
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-menu-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-menu-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -419,7 +419,7 @@ atlasData: {
 			name: button-menu-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-minimize.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -432,7 +432,7 @@ atlasData: {
 			name: button-minimize
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-minimize-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -445,7 +445,7 @@ atlasData: {
 			name: button-minimize-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-minimize-over copy.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-minimize-over copy.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -458,7 +458,7 @@ atlasData: {
 			name: button-minimize-over copy
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-new.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -471,7 +471,7 @@ atlasData: {
 			name: button-new
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-new-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -484,7 +484,7 @@ atlasData: {
 			name: button-new-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-new-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-new-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -497,7 +497,7 @@ atlasData: {
 			name: button-new-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -510,7 +510,7 @@ atlasData: {
 			name: button-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-plus.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -523,7 +523,7 @@ atlasData: {
 			name: button-plus
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-plus-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -536,7 +536,7 @@ atlasData: {
 			name: button-plus-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-plus-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-plus-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -549,7 +549,7 @@ atlasData: {
 			name: button-plus-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -562,7 +562,7 @@ atlasData: {
 			name: button-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-restore.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -575,7 +575,7 @@ atlasData: {
 			name: button-restore
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-restore-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -588,7 +588,7 @@ atlasData: {
 			name: button-restore-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-restore-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-restore-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -601,7 +601,7 @@ atlasData: {
 			name: button-restore-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -614,7 +614,7 @@ atlasData: {
 			name: button-settings
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-disabled.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-disabled.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -627,7 +627,7 @@ atlasData: {
 			name: button-settings-disabled
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -640,7 +640,7 @@ atlasData: {
 			name: button-settings-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -653,7 +653,7 @@ atlasData: {
 			name: button-settings-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-small.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -666,7 +666,7 @@ atlasData: {
 			name: button-settings-small
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-small-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -679,7 +679,7 @@ atlasData: {
 			name: button-settings-small-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-settings-small-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-settings-small-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -692,7 +692,7 @@ atlasData: {
 			name: button-settings-small-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-h.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -705,7 +705,7 @@ atlasData: {
 			name: button-spinner-minus-h
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-h-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -718,7 +718,7 @@ atlasData: {
 			name: button-spinner-minus-h-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-h-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-h-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -731,7 +731,7 @@ atlasData: {
 			name: button-spinner-minus-h-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-v.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -744,7 +744,7 @@ atlasData: {
 			name: button-spinner-minus-v
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-v-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -757,7 +757,7 @@ atlasData: {
 			name: button-spinner-minus-v-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-minus-v-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-minus-v-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -770,7 +770,7 @@ atlasData: {
 			name: button-spinner-minus-v-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-h.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -783,7 +783,7 @@ atlasData: {
 			name: button-spinner-plus-h
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-h-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -796,7 +796,7 @@ atlasData: {
 			name: button-spinner-plus-h-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-h-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-h-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -809,7 +809,7 @@ atlasData: {
 			name: button-spinner-plus-h-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-v.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -822,7 +822,7 @@ atlasData: {
 			name: button-spinner-plus-v
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-v-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -835,7 +835,7 @@ atlasData: {
 			name: button-spinner-plus-v-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-spinner-plus-v-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-spinner-plus-v-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -848,7 +848,7 @@ atlasData: {
 			name: button-spinner-plus-v-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-swatches.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -861,7 +861,7 @@ atlasData: {
 			name: button-swatches
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-swatches-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -874,7 +874,7 @@ atlasData: {
 			name: button-swatches-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/button-swatches-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/button-swatches-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -887,7 +887,7 @@ atlasData: {
 			name: button-swatches-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-off.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -900,7 +900,7 @@ atlasData: {
 			name: checkbox-off
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-off-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -913,7 +913,7 @@ atlasData: {
 			name: checkbox-off-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-off-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-off-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -926,7 +926,7 @@ atlasData: {
 			name: checkbox-off-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-on.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -939,7 +939,7 @@ atlasData: {
 			name: checkbox-on
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-on-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -952,7 +952,7 @@ atlasData: {
 			name: checkbox-on-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/checkbox-on-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/checkbox-on-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -965,7 +965,7 @@ atlasData: {
 			name: checkbox-on-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/class-bar.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/class-bar.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -978,7 +978,7 @@ atlasData: {
 			name: class-bar
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/color-box.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-box.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -991,7 +991,7 @@ atlasData: {
 			name: color-box
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/color-picker.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-picker.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1004,7 +1004,7 @@ atlasData: {
 			name: color-picker
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/color-scale.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1017,7 +1017,7 @@ atlasData: {
 			name: color-scale
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/color-scale-flipped.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/color-scale-flipped.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1030,7 +1030,7 @@ atlasData: {
 			name: color-scale-flipped
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-export.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-export.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1043,7 +1043,7 @@ atlasData: {
 			name: font-export
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-title-export.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-title-export.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1056,7 +1056,7 @@ atlasData: {
 			name: font-title-export
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-colorwheel.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-colorwheel.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1069,7 +1069,7 @@ atlasData: {
 			name: icon-colorwheel
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-colorwheel-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-colorwheel-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1082,7 +1082,7 @@ atlasData: {
 			name: icon-colorwheel-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-portrait.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-portrait.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1095,7 +1095,7 @@ atlasData: {
 			name: icon-portrait
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-portrait-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-portrait-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1108,7 +1108,7 @@ atlasData: {
 			name: icon-portrait-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-text.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-text.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1121,7 +1121,7 @@ atlasData: {
 			name: icon-text
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/icon-text-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/icon-text-over.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1134,7 +1134,7 @@ atlasData: {
 			name: icon-text-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/link.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1147,7 +1147,7 @@ atlasData: {
 			name: link
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/link-empty.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link-empty.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1160,7 +1160,7 @@ atlasData: {
 			name: link-empty
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/list.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/list.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1173,7 +1173,7 @@ atlasData: {
 			name: list
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_0.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1186,7 +1186,7 @@ atlasData: {
 			name: loading_0
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_1.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1199,7 +1199,7 @@ atlasData: {
 			name: loading_1
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_2.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1212,7 +1212,7 @@ atlasData: {
 			name: loading_2
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_3.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1225,7 +1225,7 @@ atlasData: {
 			name: loading_3
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_4.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_4.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1238,7 +1238,7 @@ atlasData: {
 			name: loading_4
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_5.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_5.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1251,7 +1251,7 @@ atlasData: {
 			name: loading_5
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_6.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_6.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1264,7 +1264,7 @@ atlasData: {
 			name: loading_6
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/loading_7.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/loading_7.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1277,7 +1277,7 @@ atlasData: {
 			name: loading_7
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/scrollpane.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/scrollpane.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1290,7 +1290,7 @@ atlasData: {
 			name: scrollpane
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/scrollpane-knob.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/scrollpane-knob.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1303,7 +1303,7 @@ atlasData: {
 			name: scrollpane-knob
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/selectbox.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1316,7 +1316,7 @@ atlasData: {
 			name: selectbox
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/selectbox-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1329,7 +1329,7 @@ atlasData: {
 			name: selectbox-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/selectbox-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/selectbox-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1342,7 +1342,7 @@ atlasData: {
 			name: selectbox-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-horizontal.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/slider-horizontal.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1355,7 +1355,7 @@ atlasData: {
 			name: slider-horizontal
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/slider-knob.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1368,7 +1368,7 @@ atlasData: {
 			name: slider-knob
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/slider-knob-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1381,7 +1381,7 @@ atlasData: {
 			name: slider-knob-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-knob-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/slider-knob-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1394,7 +1394,7 @@ atlasData: {
 			name: slider-knob-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/slider-vertical.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/slider-vertical.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1407,7 +1407,7 @@ atlasData: {
 			name: slider-vertical
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/splitpane.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/splitpane.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1420,7 +1420,7 @@ atlasData: {
 			name: splitpane
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/status-bar.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/status-bar.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1433,7 +1433,7 @@ atlasData: {
 			name: status-bar
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/textfield.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1446,7 +1446,7 @@ atlasData: {
 			name: textfield
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/browse-field.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/browse-field.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1459,7 +1459,7 @@ atlasData: {
 			name: browse-field
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/textfield-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1472,7 +1472,7 @@ atlasData: {
 			name: textfield-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/textfield-spinner.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1485,7 +1485,7 @@ atlasData: {
 			name: textfield-spinner
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner-over.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/textfield-spinner-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1498,7 +1498,7 @@ atlasData: {
 			name: textfield-spinner-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/textfield-spinner-pressed.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/textfield-spinner-pressed.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1511,7 +1511,7 @@ atlasData: {
 			name: textfield-spinner-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-off.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1524,7 +1524,7 @@ atlasData: {
 			name: toggle-off
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-off-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1537,7 +1537,7 @@ atlasData: {
 			name: toggle-off-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-off-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-off-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1550,7 +1550,7 @@ atlasData: {
 			name: toggle-off-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-on.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1563,7 +1563,7 @@ atlasData: {
 			name: toggle-on
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on-over.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-on-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1576,7 +1576,7 @@ atlasData: {
 			name: toggle-on-over
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/toggle-on-pressed.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/toggle-on-pressed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1589,7 +1589,7 @@ atlasData: {
 			name: toggle-on-pressed
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1602,7 +1602,7 @@ atlasData: {
 			name: white
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/window.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1615,7 +1615,7 @@ atlasData: {
 			name: window
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window-main.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/window-main.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1628,7 +1628,7 @@ atlasData: {
 			name: window-main
 		}
 		{
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/window2.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/window2.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1641,7 +1641,7 @@ atlasData: {
 			name: window2
 		}
 		{
-			file: temp/672831133_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1654,7 +1654,7 @@ atlasData: {
 			name: pressed
 		}
 		{
-			file: temp/672831133_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1667,7 +1667,7 @@ atlasData: {
 			name: black
 		}
 		{
-			file: temp/672831133_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1680,7 +1680,7 @@ atlasData: {
 			name: button-color
 		}
 		{
-			file: temp/672831133_data/white.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/white.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1693,7 +1693,7 @@ atlasData: {
 			name: stage-background
 		}
 		{
-			file: temp/672831133_data/link.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1706,7 +1706,7 @@ atlasData: {
 			name: link-c
 		}
 		{
-			file: temp/672831133_data/link.9.png
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/link.9.png
 			bgColor: {
 				r: 0
 				g: 0
@@ -1807,12 +1807,12 @@ jsonData: {
 		{
 			class: com.ray3k.skincomposer.data.FontData
 			name: font
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-export.fnt
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-export.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
 			name: title
-			file: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui_data/font-title-export.fnt
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-title-export.fnt
 		}
 	]
 	classStyleMap: {
@@ -7209,6 +7209,282 @@ jsonData: {
 				deletable: true
 			}
 		}
+		{
+			fullyQualifiedName: com.ray3k.skincomposer.MenuList$MenuListStyle
+			displayName: MenuList
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: list
+						}
+						{
+							name: textButtonStyle
+							type: TEXT
+							value: menu-button
+						}
+						{
+							name: labelStyle
+							type: TEXT
+							value: white
+						}
+						{
+							name: disabledLabelStyle
+							type: TEXT
+							value: disabled
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: textButtonStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: labelStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: disabledLabelStyle
+						type: TEXT
+						value: ""
+					}
+				]
+				deletable: true
+			}
+		}
+		{
+			fullyQualifiedName: com.ray3k.skincomposer.MenuButton$MenuButtonStyle
+			displayName: MenuButtonStyle
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: menuListStyle
+							type: TEXT
+							value: default
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button-file
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: button-file-pressed
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: button-file-over
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-file-pressed
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: 0
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: menuListStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: downFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: overFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOverFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: pressedOffsetX
+						type: NUMBER
+						value: 0
+					}
+					{
+						name: pressedOffsetY
+						type: NUMBER
+						value: 0
+					}
+					{
+						name: unpressedOffsetX
+						type: NUMBER
+						value: 0
+					}
+					{
+						name: unpressedOffsetY
+						type: NUMBER
+						value: 0
+					}
+					{
+						name: checkedOffsetX
+						type: NUMBER
+						value: 0
+					}
+					{
+						name: checkedOffsetY
+						type: NUMBER
+						value: 0
+					}
+				]
+				deletable: true
+			}
+		}
 	]
 }
 preferences: {
@@ -7225,5 +7501,5 @@ preferences: {
 		value: true
 	}
 }
-saveFile: C:/Users/raymond/Desktop/Skin Composer UI/project/skin-composer-ui.scmp
+saveFile: E:/workspace/Skin Composer UI/git/project/skin-composer-ui.scmp
 }
