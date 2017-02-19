@@ -1718,6 +1718,136 @@ atlasData: {
 			tintName: link-pressed
 			name: link-p
 		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/welcome-frame-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: welcome-frame-over
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/welcome-separator.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: welcome-separator
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-neon.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-neon
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-neutralizer.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-neutralizer
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-plain-james.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-plain-james
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-scene2d.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-scene2d
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-video.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-video
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/thumb-vis-ui.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: thumb-vis-ui
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/welcome-frame.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: welcome-frame
+		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/welcome-frame-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: welcome-frame-pressed
+		}
 	]
 }
 jsonData: {
@@ -4549,6 +4679,810 @@ jsonData: {
 				}
 				deletable: true
 			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-neon
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-neon
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-neutralizer
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-neutralizer
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-plain-james
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-plain-james
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-scene2d
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-scene2d
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-video
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-video
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: thumb-vis-ui
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: thumb-vis-ui
+					}
+					imageDown: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: welcome-frame
+					}
+					down: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: welcome-frame-pressed
+					}
+					over: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: welcome-frame-over
+					}
+					checked: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+			}
 		]
 		com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton: [
 			{
@@ -5265,6 +6199,64 @@ jsonData: {
 						name: fontColor
 						optional: true
 						value: disabled
+					}
+					background: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: title-no-line
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: title
+					}
+					fontColor: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: button
+					}
+					background: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: black
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: black
 					}
 					background: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7007,6 +7999,42 @@ jsonData: {
 						name: background
 						optional: true
 						value: window
+					}
+					titleFont: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: titleFont
+						optional: false
+						value: font
+					}
+					titleFontColor: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.Color
+						name: titleFontColor
+						optional: true
+						value: white
+					}
+					stageBackground: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: stageBackground
+						optional: true
+						value: stage-background
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: welcome
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Window
+				properties: {
+					background: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: window2
 					}
 					titleFont: {
 						class: com.ray3k.skincomposer.data.StyleProperty
