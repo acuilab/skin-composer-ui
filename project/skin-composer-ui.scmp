@@ -1848,6 +1848,19 @@ atlasData: {
 			tintName: null
 			name: welcome-frame-pressed
 		}
+		{
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/class-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: black
+			name: class-bar-black
+		}
 	]
 }
 jsonData: {
@@ -6264,6 +6277,35 @@ jsonData: {
 						name: background
 						optional: true
 						value: null
+					}
+				}
+				deletable: true
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: black-underline
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: black
+					}
+					background: {
+						class: com.ray3k.skincomposer.data.StyleProperty
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: class-bar-black
 					}
 				}
 				deletable: true
