@@ -8555,6 +8555,54 @@ jsonData: {
 				deletable: true
 			}
 		}
+		{
+			fullyQualifiedName: com.ray3k.skincomposer.Spinner$SpinnerStyle
+			displayName: Spinner
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: buttonMinusStyle
+							type: TEXT
+							value: spinner-minus-h
+						}
+						{
+							name: buttonPlusStyle
+							type: TEXT
+							value: spinner-plus-h
+						}
+						{
+							name: textFieldStyle
+							type: TEXT
+							value: spinner
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: buttonMinusStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: buttonPlusStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: textFieldStyle
+						type: TEXT
+						value: ""
+					}
+				]
+				deletable: true
+			}
+		}
 	]
 }
 preferences: {
