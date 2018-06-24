@@ -2632,7 +2632,37 @@ jsonData: {
 			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/font-title-export.fnt
 		}
 	]
-	freeTypeFonts: []
+	freeTypeFonts: [
+		{
+			class: com.ray3k.skincomposer.data.FreeTypeFontData
+			name: fontFree
+			file: E:/workspace/Skin Composer UI/git/project/skin-composer-ui_data/SourceSansPro-Regular.ttf
+			previewTTF: IBMPlexSerif-Medium
+			useCustomSerializer: true
+			size: 16
+			mono: false
+			hinting: AutoSlight
+			color: white
+			gamma: 0.8
+			renderCount: 2
+			borderWidth: 0
+			borderColor: null
+			borderStraight: false
+			borderGamma: 1.8
+			shadowOffsetX: 0
+			shadowOffsetY: 0
+			shadowColor: null
+			spaceX: 0
+			spaceY: 0
+			characters: ""
+			kerning: true
+			flip: false
+			genMipMaps: false
+			minFilter: Linear
+			magFilter: Linear
+			incremental: false
+		}
+	]
 	classStyleMap: {
 		com.badlogic.gdx.scenes.scene2d.ui.Button: [
 			{
@@ -4614,7 +4644,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -4790,7 +4820,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6317,7 +6347,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6500,7 +6530,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6683,7 +6713,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6826,7 +6856,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6884,7 +6914,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6942,7 +6972,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -6971,7 +7001,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7029,7 +7059,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7058,7 +7088,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7089,7 +7119,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColorSelected: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7316,7 +7346,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7579,7 +7609,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7720,7 +7750,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -7861,7 +7891,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8002,7 +8032,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8143,7 +8173,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8284,7 +8314,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8427,7 +8457,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8512,7 +8542,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8597,7 +8627,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: font
+						value: fontFree
 					}
 					fontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -8791,7 +8821,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: titleFont
 						optional: false
-						value: font
+						value: fontFree
 					}
 					titleFontColor: {
 						class: com.ray3k.skincomposer.data.StyleProperty
@@ -9130,6 +9160,7 @@ jsonData: {
 				]
 				deletable: true
 			}
+			declareAfterUIclasses: false
 		}
 		{
 			fullyQualifiedName: com.ray3k.skincomposer.MenuList$MenuListStyle
@@ -9188,6 +9219,7 @@ jsonData: {
 				]
 				deletable: true
 			}
+			declareAfterUIclasses: false
 		}
 		{
 			fullyQualifiedName: com.ray3k.skincomposer.MenuButton$MenuButtonStyle
@@ -9234,7 +9266,7 @@ jsonData: {
 						{
 							name: font
 							type: FONT
-							value: font
+							value: null
 						}
 						{
 							name: up
@@ -9406,6 +9438,7 @@ jsonData: {
 				]
 				deletable: true
 			}
+			declareAfterUIclasses: false
 		}
 		{
 			fullyQualifiedName: com.ray3k.skincomposer.Spinner$SpinnerStyle
@@ -9454,6 +9487,7 @@ jsonData: {
 				]
 				deletable: true
 			}
+			declareAfterUIclasses: false
 		}
 	]
 }
